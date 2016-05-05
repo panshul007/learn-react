@@ -1,0 +1,6 @@
+.DS_Store
+*.log
+.idea
+*.iml
+/github-battle/dist/
+/github-battle/node_modules
