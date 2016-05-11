@@ -4,3 +4,6 @@
 *.iml
 /github-battle/dist/
 /github-battle/node_modules
+/github-battle-es6/node_modules
+/github-battle-es6/dist/
+/react-skeleton/node_modules
